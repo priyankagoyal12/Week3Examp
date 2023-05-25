@@ -16,7 +16,7 @@ public class GitOperations {
     public static void main(String[] args) {
         System.out.println("To learn github Operations commit");
         System.out.println("I am making changes to this file");
-        
+        System.out.println("what a boring day");
     }
     
 }
